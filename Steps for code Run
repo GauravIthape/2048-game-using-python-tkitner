@@ -1,0 +1,29 @@
+************************************  How to run code  ***************************************************************
+To run the provided Python code in Visual Studio Code (VS Code), you can follow these steps:
+
+1] Install Python: Ensure you have Python installed on your system. You can download and install Python from the official website: Python Downloads.
+
+2] Install Visual Studio Code: If you haven’t already, download and install Visual Studio Code from the official website: Visual Studio Code.
+
+3] Open VS Code:
+
+4] Launch Visual Studio Code.
+5] Create a New Python File:
+
+Click on the “Explorer” icon on the sidebar (or go to View > Explorer).
+Click on the “New File” button or press Ctrl + N to create a new file.
+Save the file with a .py extension, for example, 2048_game.py.
+
+6] Copy the Code:
+Copy the provided Python code (2048 game code) and paste it into the newly created Python file in Visual Studio Code.
+
+7] Run the Code:
+
+Open the terminal in VS Code by selecting Terminal > New Terminal from the menu.
+In the terminal, navigate to the directory where your Python file is saved using the cd command.
+Once you’re in the correct directory, type python 2048_game.py (assuming you named your file 2048_game.py) and press Enter to run the code.
+
+8] Play the Game:
+
+After running the code, the game window should open, and you can play the 2048 game using the arrow keys.
+_______________________________________________________________________________________________________________________________________________________
